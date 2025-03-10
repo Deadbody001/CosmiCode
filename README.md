@@ -1,1 +1,1 @@
-Github Repository for CosmiCode Graphic Designing Internship
+Github Repository for CosmiCode Graphic Designing Internship.
